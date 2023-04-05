@@ -65,7 +65,10 @@ Note: The --csv --skip 1 option skips the first row in the CSV file as it contai
 To run the application, open a shell and run the following command: 
 `````python3 codep3.py`````
 
-The graphical user interface should open and look like the image provided.
+The graphical user interface should open and look like the image below.
+
+![gui](https://raw.githubusercontent.com/sehgalmaulik/car-rental-db/main/data/gui.png)
+
 This project is a good example of a simple database-driven application implemented in Python. It can be extended and modified to suit your specific requirements.
 
 ## Contributing
