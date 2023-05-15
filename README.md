@@ -76,3 +76,9 @@ If you would like to contribute to the project, please submit bug reports, featu
 
 ## Contact
 If you have any questions or feedback, please feel free to contact the author.
+
+## Copyright 
+
+Copyright © 2023. All rights reserved.
+
+This software is provided for educational purposes only. It is prohibited to use this code, for any college assignment or personal use. Unauthorized distribution, modification or commercial usage is strictly forbidden. Please respect the rights of the author.
