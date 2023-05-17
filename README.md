@@ -106,23 +106,23 @@ The graphical user interface should open and look like the image below.
 ### Get Customer Details
 
 <p float="left">
-  <img src="/img/4.png" width="400" />
-  <img src="/img/5.png" width="400" />
+  <img src="/img/11.png" width="400" />
+  <img src="/img/12.png" width="400" />
+  <img src="/img/13.png" width="400" />
+  <img src="/img/14.png" width="400" />
+   
 </p>
 
-### Add New Vehicle
+### Get Vehicle Details
 
 <p float="left">
-  <img src="/img/4.png" width="400" />
-  <img src="/img/5.png" width="400" />
+  <img src="/img/15.png" width="400" />
+  <img src="/img/16.png" width="400" />
+  <img src="/img/17.png" width="400" />
+  <img src="/img/18.png" width="400" />
+   
 </p>
 
-### Add New Vehicle
-
-<p float="left">
-  <img src="/img/4.png" width="400" />
-  <img src="/img/5.png" width="400" />
-</p>
 
 
 
