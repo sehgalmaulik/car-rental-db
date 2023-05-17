@@ -69,10 +69,64 @@ The graphical user interface should open and look like the image below.
 
 ![gui](https://raw.githubusercontent.com/sehgalmaulik/car-rental-db/main/data/gui.png)
 
-This project is a good example of a simple database-driven application implemented in Python. It can be extended and modified to suit your specific requirements.
+## Demo
 
-## Contributing
-If you would like to contribute to the project, please submit bug reports, feature requests, or pull requests. You can also check out the list of issues or fork the repository and create your own version.
+
+### Adding New Customer
+
+<p float="left">
+  <img src="/img/2.png" width="400" />
+  <img src="/img/3.png" width="400" />
+  
+</p>
+
+### Add New Vehicle
+
+<p float="left">
+  <img src="/img/4.png" width="400" />
+  <img src="/img/5.png" width="400" />
+</p>
+
+### Add New Reservation
+
+<p float="left">
+  <img src="/img/6.png" width="400" />
+  <img src="/img/7.png" width="400" />
+  <img src="/img/8.png" width="400" />
+   
+</p>
+
+### Return Rental
+
+<p float="left">
+  <img src="/img/9.png" width="400" />
+  <img src="/img/10.png" width="400" />
+</p>
+
+### Get Customer Details
+
+<p float="left">
+  <img src="/img/4.png" width="400" />
+  <img src="/img/5.png" width="400" />
+</p>
+
+### Add New Vehicle
+
+<p float="left">
+  <img src="/img/4.png" width="400" />
+  <img src="/img/5.png" width="400" />
+</p>
+
+### Add New Vehicle
+
+<p float="left">
+  <img src="/img/4.png" width="400" />
+  <img src="/img/5.png" width="400" />
+</p>
+
+
+
+
 
 ## Contact
 If you have any questions or feedback, please feel free to contact the author.
